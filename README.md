@@ -2,6 +2,9 @@ RC-Touch
 -----------------
 RC Touch turns your iPad，iPhone, or iPod Touch into an R/C transmitter.
 
+RC Touch is one part of the open source project [Hex Air Robot](http://hex.angeleyes.it)
+
+
 
 Demo Video
 -----------------
@@ -10,7 +13,7 @@ http://www.youtube.com/watch?v=OqyFz5is0EQ
 http://v.youku.com/v_show/id_XNDk5MTQ5NzE2.html
 
 
-The Features
+Features
 -----------------
 1. Each channel median output will not float. It stabilizes the output of PPM.
 2. You can freely adjust the window’s size of every channel’s output and the Value of Trim is adjustable.
@@ -26,6 +29,12 @@ The Features
 Hardware
 -----------------
 The app works with iPhly hardware. Detail at http://www.iPhly.org
+
+You can also learn more about the hardware here:
+
+http://bbs.5imx.com/bbs/forum.php?mod=viewthread&tid=710092
+
+http://bbs.5imx.com/bbs/forum.php?mod=viewthread&tid=717753
 
 
 User Manual
@@ -46,9 +55,9 @@ By default:
 In left handed mode, the functions of joysticks is reversed: the left joystick is for yawing and throttle,and right joystick is for rolling and pitching.
 
 
-Warning:
+Warning
 -----------------
-In order to flight safety, before take-off, please ensure that the machine (iPhone, iPod Touch or iPad) is in Airplane Mode , and has enough electricity to flight.
+In order to flight safety, before take-off, please ensure that the machine (iPhone, iPod Touch or iPad) is in Airplane Mode and has enough electricity to flight.
 
 
 Change Log
