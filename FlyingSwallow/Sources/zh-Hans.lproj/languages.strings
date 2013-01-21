@@ -1,0 +1,54 @@
+/* 
+  languages.strings
+  FlyingSwallow
+
+  Created by koupoo on 12-12-21.
+  Copyright (c) 2012年 www.angeleyes.it. All rights reserved.
+*/
+
+"PERSONAL SETTINGS" = "个人设置";
+"CHANNELS SETTINGS" = "通道设置";
+"MODE SETTINGS" = "模式设置";
+"ABOUT" = "关于触摸遥控";
+
+//PERSONAL SETTINGS
+"LEFT HANDED" = "左撇子";
+"INTERFACE OPACITY" = "界面透明度";
+
+//CHANNELS SETTINGS
+"CHANNELS" = "通道";
+
+"IS REVERSING" = "反方向";
+"TRIM VALUE" = "修正值";
+"OUTPUT ADJUSTABLE RANGE" = "输出可调范围";
+"OUTPUT PPM RANGE" = "输出的PPM范围";
+"DEFAULT OUTPUT VALUE" = "默认输出值";
+
+
+//MODE SETTINGS
+"PPM POLARITY REVERSED" = "PPM极性反向";
+"DEAD BAND" = "盲区";
+
+//Audio Warning
+"Increase Audio Volume" = "增大音量";
+"Decrease Audio Volume" = "减小音量";
+"Plug in PPM output cable" = "插入PPM输出线";
+
+//Channel List Table View Cell
+"Trim" = "修正值";
+"Adjustable" = "可调";
+"Normal" = "正向";
+"Reversed" = "反向";
+
+"Take Off Throttle" = "起飞油门";
+
+"Aileron/Elevator Dead Band" = "Aileron/Elevator操作无效区";
+"Rudder Dead Band" = "Rudder操作无效区";
+
+//status info pane
+"Rudder Locked" = "航向锁定";
+"Throttle Locked" = "油门锁定";
+"Throttle Rudder Locked" = "油门和航向锁定";
+
+"Default Settings" = "默认设置";
+"Default" = "默认";

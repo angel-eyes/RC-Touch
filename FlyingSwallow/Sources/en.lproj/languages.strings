@@ -1,0 +1,59 @@
+/* 
+  languages.strings
+  FlyingSwallow
+
+  Created by koupoo on 12-12-21.
+  Copyright (c) 2012年 www.angeleyes.it. All rights reserved.
+*/
+
+/* Settings Menu Text */
+
+"PERSONAL SETTINGS" = "PERSONAL SETTINGS";
+"CHANNELS SETTINGS" = "CHANNELS SETTINGS";
+"MODE SETTINGS" = "MODE SETTINGS";
+"ABOUT" = "ABOUT RC TOUCH";
+
+//PERSONAL SETTINGS
+"LEFT HANDED" = "LEFT HANDED";
+"INTERFACE OPACITY" = "INTERFACE OPACITY";
+
+//CHANNELS SETTINGS
+"CHANNELS" = "Channels";
+
+"IS REVERSING" = "Direction Reversed";
+"TRIM VALUE" = "Trim Value";
+"OUTPUT ADJUSTABLE RANGE" = "Output Adjustable Range";
+"OUTPUT PPM RANGE" = "Output PPM Range";
+"DEFAULT OUTPUT VALUE" = "Default Output Value";
+
+
+
+//MODE SETTINGS
+"PPM POLARITY REVERSED" = "PPM Polarity Reversed";
+"DEAD BAND" = "DEAD BAND";
+
+//Audio Warning
+"Increase Audio Volume" = "Increase Audio Volume";
+"Decrease Audio Volume" = "Decrease Audio Volume";
+"Plug in PPM output cable" = "Plug in PPM output cable";
+
+
+//Channel List Table View Cell
+"Trim" = "Trim";
+"Adjustable" = "Adjustble";
+"Normal" = "Normal";
+"Reversed" = "Reversed";
+
+"Take Off Throttle" = "Take Off Throttle";
+
+"Aileron/Elevator Dead Band" = "Aileron/Elevator Dead Band";
+"Rudder Dead Band" = "Rudder Dead Band";
+
+//status info pane
+"Rudder Locked" = "Rudder Locked";
+"Throttle Locked" = "Throttle Locked";
+"Throttle Rudder Locked" = "Throttle Rudder Locked";
+
+"Default Settings" = "Default Settings";
+"Default" = "Default";
+
